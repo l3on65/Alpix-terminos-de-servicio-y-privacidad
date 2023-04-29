@@ -20,5 +20,5 @@ Alpix no solicita, comparte ni vende tu información personal. La información q
 Información que Alpix no recolecta:
 1. Cualquier cosa que no esté incluida en los puntos de arriba.
 ¿Como puedo borrar los datos?
-Si un usuario quiere borrar los datos almacenados en la base de datos de Apolo, tendría que enviarme un mensaje por DM o expulsar al bot del servidor.
+Si un usuario quiere borrar los datos almacenados en la base de datos de Alpix, tendría que enviarme un mensaje por DM o expulsar al bot del servidor.
 ¿Quién puede acceder a estos datos? Sólo el dueño puede acceder a ellos, la base de datos de Alpix está protegida con una contraseña que mantiene segura toda la información que tengo en ella.
