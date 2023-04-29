@@ -9,6 +9,6 @@
 7. Si invitas a Alpix a tu servidor estas aceptando los términos de servicio
 8. En caso de violar los ToS serás sancionado.
 9. Clonar el servidor de soporte (reglamentos, categorías, canales) es sancionable.
-10. omenzar rumores malos sobre el bot es motivo de sanción.
+10. Comenzar rumores malos sobre el bot es motivo de sanción.
 11. El dueño de Alpix se reserva el derecho de incluir usuarios y servidores en la lista negra como mejor le parezca.
 ​
